@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761043370682",
+    "project_id": "flutteripssichat",
+    "storage_bucket": "flutteripssichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761043370682:android:de22949b3a81713bf1b883",
+        "android_client_info": {
+          "package_name": "com.kody.flutterIpssiChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761043370682-l74g45lguk0cdkkrh0q9qtrv52jk9m6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-woamIz-BCWtVmh-Hblie2EKwWJ3-cPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761043370682-l74g45lguk0cdkkrh0q9qtrv52jk9m6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
